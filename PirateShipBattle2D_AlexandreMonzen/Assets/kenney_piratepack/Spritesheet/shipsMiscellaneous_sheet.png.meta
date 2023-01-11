@@ -1,0 +1,2862 @@
+fileFormatVersion: 2
+guid: e04591711e121ab41803c6cf8d844e52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7072590022351340806
+    second: shipsMiscellaneous_sheet_0
+  - first:
+      213: 9202046051227714200
+    second: shipsMiscellaneous_sheet_1
+  - first:
+      213: 6113682223157574495
+    second: shipsMiscellaneous_sheet_2
+  - first:
+      213: -2704309627326049121
+    second: shipsMiscellaneous_sheet_3
+  - first:
+      213: -6859567321463686539
+    second: shipsMiscellaneous_sheet_4
+  - first:
+      213: -6480686583057543155
+    second: shipsMiscellaneous_sheet_5
+  - first:
+      213: -2795976770295327115
+    second: shipsMiscellaneous_sheet_6
+  - first:
+      213: -463308086812964116
+    second: shipsMiscellaneous_sheet_7
+  - first:
+      213: -5553616602620952373
+    second: shipsMiscellaneous_sheet_8
+  - first:
+      213: 1291271870443693342
+    second: shipsMiscellaneous_sheet_9
+  - first:
+      213: 4568526026083714253
+    second: shipsMiscellaneous_sheet_10
+  - first:
+      213: 8099042030152518367
+    second: shipsMiscellaneous_sheet_11
+  - first:
+      213: -2900052433381649034
+    second: shipsMiscellaneous_sheet_12
+  - first:
+      213: -3483080301441038220
+    second: shipsMiscellaneous_sheet_13
+  - first:
+      213: 3130951073763778995
+    second: shipsMiscellaneous_sheet_14
+  - first:
+      213: -1002969498342952605
+    second: shipsMiscellaneous_sheet_15
+  - first:
+      213: -8918789125010897299
+    second: shipsMiscellaneous_sheet_16
+  - first:
+      213: 8809290787474058199
+    second: shipsMiscellaneous_sheet_17
+  - first:
+      213: -5987954039362889200
+    second: shipsMiscellaneous_sheet_18
+  - first:
+      213: -9206172167543679158
+    second: shipsMiscellaneous_sheet_19
+  - first:
+      213: -6829002815220534722
+    second: shipsMiscellaneous_sheet_20
+  - first:
+      213: 2164757765114135144
+    second: shipsMiscellaneous_sheet_21
+  - first:
+      213: -5738598326558167851
+    second: shipsMiscellaneous_sheet_22
+  - first:
+      213: -8763186973272327925
+    second: shipsMiscellaneous_sheet_23
+  - first:
+      213: -1540206473092946781
+    second: shipsMiscellaneous_sheet_24
+  - first:
+      213: 7017452450847610362
+    second: shipsMiscellaneous_sheet_25
+  - first:
+      213: 8147640796394750502
+    second: shipsMiscellaneous_sheet_26
+  - first:
+      213: -2038539068520943377
+    second: shipsMiscellaneous_sheet_27
+  - first:
+      213: 663576582327453874
+    second: shipsMiscellaneous_sheet_28
+  - first:
+      213: -7571583900263281601
+    second: shipsMiscellaneous_sheet_29
+  - first:
+      213: 990751282862857778
+    second: shipsMiscellaneous_sheet_30
+  - first:
+      213: -5286868311329891055
+    second: shipsMiscellaneous_sheet_31
+  - first:
+      213: -7651468190268447265
+    second: shipsMiscellaneous_sheet_32
+  - first:
+      213: 5835982955314721886
+    second: shipsMiscellaneous_sheet_33
+  - first:
+      213: 6382672964134217218
+    second: shipsMiscellaneous_sheet_34
+  - first:
+      213: -1103557540747250987
+    second: shipsMiscellaneous_sheet_35
+  - first:
+      213: 6744106240548475707
+    second: shipsMiscellaneous_sheet_36
+  - first:
+      213: 1682706584923622090
+    second: shipsMiscellaneous_sheet_37
+  - first:
+      213: 3580203910567695240
+    second: shipsMiscellaneous_sheet_38
+  - first:
+      213: -3577610281665444876
+    second: shipsMiscellaneous_sheet_39
+  - first:
+      213: -7298082370793718691
+    second: shipsMiscellaneous_sheet_40
+  - first:
+      213: -7157094994138709299
+    second: shipsMiscellaneous_sheet_41
+  - first:
+      213: 964889404271946528
+    second: shipsMiscellaneous_sheet_42
+  - first:
+      213: 960109244731984947
+    second: shipsMiscellaneous_sheet_43
+  - first:
+      213: 228517789718444038
+    second: shipsMiscellaneous_sheet_44
+  - first:
+      213: 433782189467902977
+    second: shipsMiscellaneous_sheet_45
+  - first:
+      213: -914329192024966877
+    second: shipsMiscellaneous_sheet_46
+  - first:
+      213: 5365814543359373056
+    second: shipsMiscellaneous_sheet_47
+  - first:
+      213: -7620361055180714272
+    second: shipsMiscellaneous_sheet_48
+  - first:
+      213: 7512782272314559408
+    second: shipsMiscellaneous_sheet_49
+  - first:
+      213: -249679006955688939
+    second: shipsMiscellaneous_sheet_50
+  - first:
+      213: 1015163567640816143
+    second: shipsMiscellaneous_sheet_51
+  - first:
+      213: -8184325175274631334
+    second: shipsMiscellaneous_sheet_52
+  - first:
+      213: 6131299833965895202
+    second: shipsMiscellaneous_sheet_53
+  - first:
+      213: 8472385199288869018
+    second: shipsMiscellaneous_sheet_54
+  - first:
+      213: 3170866281819822812
+    second: shipsMiscellaneous_sheet_55
+  - first:
+      213: 4342410828926070117
+    second: shipsMiscellaneous_sheet_56
+  - first:
+      213: -3198275101629667387
+    second: shipsMiscellaneous_sheet_57
+  - first:
+      213: 4865283759798025469
+    second: shipsMiscellaneous_sheet_58
+  - first:
+      213: 6613958021756271240
+    second: shipsMiscellaneous_sheet_59
+  - first:
+      213: 6452030658119361444
+    second: shipsMiscellaneous_sheet_60
+  - first:
+      213: 1978291476243741472
+    second: shipsMiscellaneous_sheet_61
+  - first:
+      213: -5702183275597723675
+    second: shipsMiscellaneous_sheet_62
+  - first:
+      213: 1614881724364759340
+    second: shipsMiscellaneous_sheet_63
+  - first:
+      213: 1310514519878785348
+    second: shipsMiscellaneous_sheet_64
+  - first:
+      213: 7866122305605501222
+    second: shipsMiscellaneous_sheet_65
+  - first:
+      213: 7608427894298870009
+    second: shipsMiscellaneous_sheet_66
+  - first:
+      213: 340476945884551546
+    second: shipsMiscellaneous_sheet_67
+  - first:
+      213: 2052211395590641343
+    second: shipsMiscellaneous_sheet_68
+  - first:
+      213: 6905149697168734460
+    second: shipsMiscellaneous_sheet_69
+  - first:
+      213: 8610449421394287913
+    second: shipsMiscellaneous_sheet_70
+  - first:
+      213: 3090564689857556657
+    second: shipsMiscellaneous_sheet_71
+  - first:
+      213: -581416041339251927
+    second: shipsMiscellaneous_sheet_72
+  - first:
+      213: 7247724881742795812
+    second: shipsMiscellaneous_sheet_73
+  - first:
+      213: 7634511137863641984
+    second: shipsMiscellaneous_sheet_74
+  - first:
+      213: -6534580967583779910
+    second: shipsMiscellaneous_sheet_75
+  - first:
+      213: -6944701959345406340
+    second: shipsMiscellaneous_sheet_76
+  - first:
+      213: 82357567643458885
+    second: shipsMiscellaneous_sheet_77
+  - first:
+      213: 2720190474233015558
+    second: shipsMiscellaneous_sheet_78
+  - first:
+      213: -2538142313283320318
+    second: shipsMiscellaneous_sheet_79
+  - first:
+      213: 7579795347873340471
+    second: shipsMiscellaneous_sheet_80
+  - first:
+      213: -7795679655831782076
+    second: shipsMiscellaneous_sheet_81
+  - first:
+      213: -8464123186600292209
+    second: shipsMiscellaneous_sheet_82
+  - first:
+      213: -6318624215296719944
+    second: shipsMiscellaneous_sheet_83
+  - first:
+      213: -5265067200825266534
+    second: shipsMiscellaneous_sheet_84
+  - first:
+      213: 8410991916399948599
+    second: shipsMiscellaneous_sheet_85
+  - first:
+      213: 298582196660788719
+    second: shipsMiscellaneous_sheet_86
+  - first:
+      213: -4146705945325629356
+    second: shipsMiscellaneous_sheet_87
+  - first:
+      213: 2017165387074762806
+    second: shipsMiscellaneous_sheet_88
+  - first:
+      213: -3915011364121751367
+    second: shipsMiscellaneous_sheet_89
+  - first:
+      213: 4835909666746589460
+    second: shipsMiscellaneous_sheet_90
+  - first:
+      213: -8988423877717864136
+    second: shipsMiscellaneous_sheet_91
+  - first:
+      213: 6802856190692306328
+    second: shipsMiscellaneous_sheet_92
+  - first:
+      213: 526821076790703682
+    second: shipsMiscellaneous_sheet_93
+  - first:
+      213: -559004650084335099
+    second: shipsMiscellaneous_sheet_94
+  - first:
+      213: -4326383133105267861
+    second: shipsMiscellaneous_sheet_95
+  - first:
+      213: 1295086127158927664
+    second: shipsMiscellaneous_sheet_96
+  - first:
+      213: 2541306577404472071
+    second: shipsMiscellaneous_sheet_97
+  - first:
+      213: -9158793532507295084
+    second: shipsMiscellaneous_sheet_98
+  - first:
+      213: -7494873533769064424
+    second: shipsMiscellaneous_sheet_99
+  - first:
+      213: 3414126351792464397
+    second: shipsMiscellaneous_sheet_100
+  - first:
+      213: 5918824978894878351
+    second: shipsMiscellaneous_sheet_101
+  - first:
+      213: 1591172999971707773
+    second: cannon.png
+  - first:
+      213: -2996408530794642730
+    second: cannonBall.png
+  - first:
+      213: -2987501949730528753
+    second: cannonLoose.png
+  - first:
+      213: -8759450822066190453
+    second: cannonMobile.png
+  - first:
+      213: 4852602933468657107
+    second: crew (1).png
+  - first:
+      213: 70620226012164950
+    second: crew (2).png
+  - first:
+      213: 845338990510726554
+    second: crew (3).png
+  - first:
+      213: 2287336516120352674
+    second: crew (4).png
+  - first:
+      213: -5826898090308361307
+    second: crew (5).png
+  - first:
+      213: 4263569015438688731
+    second: crew (6).png
+  - first:
+      213: 323603629014154390
+    second: dinghyLarge1.png
+  - first:
+      213: 3368096596704641374
+    second: dinghyLarge2.png
+  - first:
+      213: 4477148650679091822
+    second: dinghyLarge3.png
+  - first:
+      213: 8221800135222039803
+    second: dinghySmall1.png
+  - first:
+      213: 1061519029964794282
+    second: dinghySmall2.png
+  - first:
+      213: 6394457324647076447
+    second: dinghySmall3.png
+  - first:
+      213: 4407474963185272740
+    second: explosion1.png
+  - first:
+      213: -5279489499795485491
+    second: explosion2.png
+  - first:
+      213: 1887863682596719256
+    second: explosion3.png
+  - first:
+      213: 2705214425336471434
+    second: fire1.png
+  - first:
+      213: 8020230050193410916
+    second: fire2.png
+  - first:
+      213: 2737418891777704600
+    second: flag (1).png
+  - first:
+      213: -7160569367746729628
+    second: flag (2).png
+  - first:
+      213: 6020754129295334116
+    second: flag (3).png
+  - first:
+      213: 4019013949139508786
+    second: flag (4).png
+  - first:
+      213: 2603422098461229963
+    second: flag (5).png
+  - first:
+      213: -2827403048624279169
+    second: flag (6).png
+  - first:
+      213: -4320152080338702317
+    second: hullLarge (1).png
+  - first:
+      213: 1336783160403404536
+    second: hullLarge (2).png
+  - first:
+      213: 1863175416268291109
+    second: hullLarge (3).png
+  - first:
+      213: -8264086416772225027
+    second: hullLarge (4).png
+  - first:
+      213: -6063988808338522223
+    second: hullSmall (1).png
+  - first:
+      213: -4798023582711996459
+    second: hullSmall (2).png
+  - first:
+      213: -3644140827504584259
+    second: hullSmall (3).png
+  - first:
+      213: 999300099464638742
+    second: hullSmall (4).png
+  - first:
+      213: 9095741963488674656
+    second: nest.png
+  - first:
+      213: 5788145027444286674
+    second: pole.png
+  - first:
+      213: -3535631617249373985
+    second: sailLarge (1).png
+  - first:
+      213: -7499503560387065981
+    second: sailLarge (10).png
+  - first:
+      213: -5348120022709495451
+    second: sailLarge (11).png
+  - first:
+      213: 3284829780452775245
+    second: sailLarge (12).png
+  - first:
+      213: 3108891517978315432
+    second: sailLarge (13).png
+  - first:
+      213: 4218565474100895475
+    second: sailLarge (14).png
+  - first:
+      213: -9057140958323922540
+    second: sailLarge (15).png
+  - first:
+      213: 5914594481798000921
+    second: sailLarge (16).png
+  - first:
+      213: 497789049363966432
+    second: sailLarge (17).png
+  - first:
+      213: 540310563182729867
+    second: sailLarge (18).png
+  - first:
+      213: 8772056782123784237
+    second: sailLarge (19).png
+  - first:
+      213: -3793864643519978535
+    second: sailLarge (2).png
+  - first:
+      213: -1035051085976267502
+    second: sailLarge (20).png
+  - first:
+      213: -7134845670336252585
+    second: sailLarge (21).png
+  - first:
+      213: -1195591941708735935
+    second: sailLarge (22).png
+  - first:
+      213: 4133530818999439797
+    second: sailLarge (23).png
+  - first:
+      213: -213134489501883793
+    second: sailLarge (24).png
+  - first:
+      213: 8406730908552415266
+    second: sailLarge (3).png
+  - first:
+      213: -2791938364875023372
+    second: sailLarge (4).png
+  - first:
+      213: 3020817581112426552
+    second: sailLarge (5).png
+  - first:
+      213: -4393575267191777824
+    second: sailLarge (6).png
+  - first:
+      213: 3874709546595682962
+    second: sailLarge (7).png
+  - first:
+      213: -5504577746053080819
+    second: sailLarge (8).png
+  - first:
+      213: 8846905432802482614
+    second: sailLarge (9).png
+  - first:
+      213: -3869439376295981219
+    second: sailSmall (1).png
+  - first:
+      213: 5323186550952909610
+    second: sailSmall (10).png
+  - first:
+      213: -57200116633804235
+    second: sailSmall (11).png
+  - first:
+      213: 2491716612666051190
+    second: sailSmall (12).png
+  - first:
+      213: -6743451364162845019
+    second: sailSmall (13).png
+  - first:
+      213: -8052198222152967425
+    second: sailSmall (2).png
+  - first:
+      213: 4689855453390065182
+    second: sailSmall (3).png
+  - first:
+      213: 5174734984566735540
+    second: sailSmall (4).png
+  - first:
+      213: 7541526367944462437
+    second: sailSmall (5).png
+  - first:
+      213: -3574949004335182659
+    second: sailSmall (6).png
+  - first:
+      213: -3506291599497654654
+    second: sailSmall (7).png
+  - first:
+      213: -3663727109492620457
+    second: sailSmall (8).png
+  - first:
+      213: 564666888548217681
+    second: sailSmall (9).png
+  - first:
+      213: -4301837614978404441
+    second: ship (1).png
+  - first:
+      213: 7161792292550918684
+    second: ship (10).png
+  - first:
+      213: -3564651017882514987
+    second: ship (11).png
+  - first:
+      213: -239916438817987316
+    second: ship (12).png
+  - first:
+      213: -7732086514818326548
+    second: ship (13).png
+  - first:
+      213: -8734354026946177067
+    second: ship (14).png
+  - first:
+      213: -5089460255414763503
+    second: ship (15).png
+  - first:
+      213: -920837891267389030
+    second: ship (16).png
+  - first:
+      213: 1475972763721045194
+    second: ship (17).png
+  - first:
+      213: -1395362622047591941
+    second: ship (18).png
+  - first:
+      213: 1580005055733029664
+    second: ship (19).png
+  - first:
+      213: 244710371463276809
+    second: ship (2).png
+  - first:
+      213: -1331954429404700031
+    second: ship (20).png
+  - first:
+      213: -7617532787549614495
+    second: ship (21).png
+  - first:
+      213: 7514628678093331729
+    second: ship (22).png
+  - first:
+      213: -7395029797889140869
+    second: ship (23).png
+  - first:
+      213: -4974996683400641037
+    second: ship (24).png
+  - first:
+      213: -1260348854542458225
+    second: ship (3).png
+  - first:
+      213: 854962175819037455
+    second: ship (4).png
+  - first:
+      213: 6315417906016695996
+    second: ship (5).png
+  - first:
+      213: 3912706181739034491
+    second: ship (6).png
+  - first:
+      213: -7320818731842741009
+    second: ship (7).png
+  - first:
+      213: -47629327285652240
+    second: ship (8).png
+  - first:
+      213: -1990612258571045186
+    second: ship (9).png
+  - first:
+      213: 2926172498925417877
+    second: wood (1).png
+  - first:
+      213: 4089167544585016673
+    second: wood (2).png
+  - first:
+      213: -497521493288526130
+    second: wood (3).png
+  - first:
+      213: 3638458160942563030
+    second: wood (4).png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cannon.png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b918fb96bf41610800000000000000
+      internalID: 1591172999971707773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonBall.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d20900215e9a66d0800000000000000
+      internalID: -2996408530794642730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonLoose.png
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0266802ec24a86d0800000000000000
+      internalID: -2987501949730528753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonMobile.png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cd3b03ed207680800000000000000
+      internalID: -8759450822066190453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (1).png
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5fa6568a8e75340800000000000000
+      internalID: 4852602933468657107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (2).png
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653b96da8b4eaf000800000000000000
+      internalID: 70620226012164950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (3).png
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ddd24455f3bbb00800000000000000
+      internalID: 845338990510726554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (4).png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7122d41704ebf10800000000000000
+      internalID: 2287336516120352674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (5).png
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 18
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a4c02f03b22fa0800000000000000
+      internalID: -5826898090308361307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crew (6).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c5902e6d3b2b30800000000000000
+      internalID: 4263569015438688731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghyLarge1.png
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 329
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c7a6b39cbad7400800000000000000
+      internalID: 323603629014154390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghyLarge2.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 48
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5148cf7202edbe20800000000000000
+      internalID: 3368096596704641374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghyLarge3.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 48
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c8521af6022e30800000000000000
+      internalID: 4477148650679091822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghySmall1.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 320
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41b2a79a3b91270800000000000000
+      internalID: 8221800135222039803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghySmall2.png
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 376
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa96e5ffee54bbe00800000000000000
+      internalID: 1061519029964794282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinghySmall3.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 348
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52dbf6be0dadb850800000000000000
+      internalID: 6394457324647076447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70611902f7a2d30800000000000000
+      internalID: 4407474963185272740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion2.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 308
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0949954c7bb6b0800000000000000
+      internalID: -5279489499795485491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion3.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ac989540a033a10800000000000000
+      internalID: 1887863682596719256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1.png
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 7
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f517fdf2ada8520800000000000000
+      internalID: 2705214425336471434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire2.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 485
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b01b6dcb49d4f60800000000000000
+      internalID: 8020230050193410916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (1).png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 449
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928ad58af34df520800000000000000
+      internalID: 2737418891777704600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (2).png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a9ed291c80ac90800000000000000
+      internalID: -7160569367746729628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (3).png
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 380
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea5d943bf30e8350800000000000000
+      internalID: 6020754129295334116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (4).png
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 449
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23edcc1a4e766c730800000000000000
+      internalID: 4019013949139508786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (5).png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830f23ea96312420800000000000000
+      internalID: 2603422098461229963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag (6).png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 64
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b4e158eb03c8d0800000000000000
+      internalID: -2827403048624279169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullLarge (1).png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 88
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103fb3729cbb04c0800000000000000
+      internalID: -4320152080338702317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullLarge (2).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 198
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a199a3353d8210800000000000000
+      internalID: 1336783160403404536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullLarge (3).png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 198
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c79e86b245bd910800000000000000
+      internalID: 1863175416268291109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullLarge (4).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 88
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7292f5031105d80800000000000000
+      internalID: -8264086416772225027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullSmall (1).png
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 404
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fb905ae4268dba0800000000000000
+      internalID: -6063988808338522223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullSmall (2).png
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 74
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df1188f8fef96db0800000000000000
+      internalID: -4798023582711996459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullSmall (3).png
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 294
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9571199396d6dc0800000000000000
+      internalID: -3644140827504584259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hullSmall (4).png
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 184
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113a9c552a3edd00800000000000000
+      internalID: 999300099464638742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nest.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 28
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634b5edf119a3e70800000000000000
+      internalID: 9095741963488674656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pole.png
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4a24d4c3f935050800000000000000
+      internalID: 5788145027444286674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (1).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 186
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01635d6c9eeeec0800000000000000
+      internalID: -3535631617249373985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (10).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 138
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870a53fe396ce790800000000000000
+      internalID: -7499503560387065981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (11).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691f36cc29a7c5b0800000000000000
+      internalID: -5348120022709495451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (12).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 42
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d451383184f069d20800000000000000
+      internalID: 3284829780452775245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (13).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 465
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa825e2d50052b20800000000000000
+      internalID: 3108891517978315432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (14).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 416
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fed281a2fa5b8a30800000000000000
+      internalID: 4218565474100895475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (15).png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499267209429e4280800000000000000
+      internalID: -9057140958323922540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (16).png
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113e06285cd41250800000000000000
+      internalID: 5914594481798000921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (17).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 367
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e92b64c08088e600800000000000000
+      internalID: 497789049363966432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (18).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 318
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad5e238919f7700800000000000000
+      internalID: 540310563182729867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (19).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 172
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d285b00ca2b9cb970800000000000000
+      internalID: 8772056782123784237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (2).png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3e31d153c795bc0800000000000000
+      internalID: -3793864643519978535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (20).png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21590007582c2a1f0800000000000000
+      internalID: -1035051085976267502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (21).png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755bf543aafebfc90800000000000000
+      internalID: -7134845670336252585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (22).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 221
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a912aa677686fe0800000000000000
+      internalID: -1195591941708735935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (23).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 235
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1579621604d5930800000000000000
+      internalID: 4133530818999439797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (24).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 123
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f622bdf9f4bca0df0800000000000000
+      internalID: -213134489501883793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (3).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 74
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22840967835baa470800000000000000
+      internalID: 8406730908552415266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (4).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 25
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd6d679da0149d0800000000000000
+      internalID: -2791938364875023372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (5).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 465
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300675c5991ce920800000000000000
+      internalID: 3020817581112426552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (6).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e597199292e603c0800000000000000
+      internalID: -4393575267191777824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (7).png
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 270
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a86a4bdcbb5c530800000000000000
+      internalID: 3874709546595682962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (8).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 369
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095cf754bfcb93b0800000000000000
+      internalID: -5504577746053080819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailLarge (9).png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 417
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b95aa34e9586ca70800000000000000
+      internalID: 8846905432802482614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (1).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f08ff636dfc4ac0800000000000000
+      internalID: -3869439376295981219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (10).png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 81
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5fa2f6f1cfd940800000000000000
+      internalID: 5323186550952909610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (11).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326ee60cc8c43ff0800000000000000
+      internalID: -57200116633804235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (12).png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 70
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a46eabe0b549220800000000000000
+      internalID: 2491716612666051190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (13).png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a643fe66b27a62a0800000000000000
+      internalID: -6743451364162845019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (2).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5a8b1168d04090800000000000000
+      internalID: -8052198222152967425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (3).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 504
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4e3bdfa6b51140800000000000000
+      internalID: 4689855453390065182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (4).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 494
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b203e13d0a50d740800000000000000
+      internalID: 5174734984566735540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (5).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 484
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56052916642e8a860800000000000000
+      internalID: 7541526367944462437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (6).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 474
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc077a42da336ec0800000000000000
+      internalID: -3574949004335182659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (7).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 463
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e810d0e56275fc0800000000000000
+      internalID: -3506291599497654654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (8).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 441
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75349bcea93d72dc0800000000000000
+      internalID: -3663727109492620457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailSmall (9).png
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 452
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153775c1b8916d700800000000000000
+      internalID: 564666888548217681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (1).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 399
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af6cc53b7dcc44c0800000000000000
+      internalID: -4301837614978404441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (10).png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 54
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12c0a0352cc36360800000000000000
+      internalID: 7161792292550918684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (11).png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 169
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c0ea19c0d78ec0800000000000000
+      internalID: -3564651017882514987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (12).png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 284
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052a702545abacf0800000000000000
+      internalID: -239916438817987316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (13).png
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 399
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef5aa7f74c12b490800000000000000
+      internalID: -7732086514818326548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (14).png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7de510a4759c680800000000000000
+      internalID: -8734354026946177067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (15).png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 169
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c881ecda9e59b0800000000000000
+      internalID: -5089460255414763503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (16).png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 284
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99994311d68833f0800000000000000
+      internalID: -920837891267389030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (17).png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 399
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49eb79865bb7410800000000000000
+      internalID: 1475972763721045194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (18).png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1eef3961da2ace0800000000000000
+      internalID: -1395362622047591941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (19).png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 169
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd94a1a3e4de510800000000000000
+      internalID: 1580005055733029664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (2).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 284
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9092ceb49c2656300800000000000000
+      internalID: 244710371463276809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (20).png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 399
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822352e082f38de0800000000000000
+      internalID: -1331954429404700031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (21).png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec6350a46194690800000000000000
+      internalID: -7617532787549614495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (22).png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d57b0f7f2594860800000000000000
+      internalID: 7514628678093331729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (23).png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 284
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77936154939f5990800000000000000
+      internalID: -7395029797889140869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (24).png
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 399
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5882700e245fab0800000000000000
+      internalID: -4974996683400641037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (3).png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 284
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822de7f467528ee0800000000000000
+      internalID: -1260348854542458225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (4).png
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb612b19f6ddb00800000000000000
+      internalID: 854962175819037455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (5).png
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63440002fd4a750800000000000000
+      internalID: 6315417906016695996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (6).png
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b709ba89bc4630800000000000000
+      internalID: 3912706181739034491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (7).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecdc77962a376a90800000000000000
+      internalID: -7320818731842741009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (8).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47f321169c65ff0800000000000000
+      internalID: -47629327285652240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship (9).png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b55292bcef54e0800000000000000
+      internalID: -1990612258571045186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood (1).png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59577fd526adb9820800000000000000
+      internalID: 2926172498925417877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood (2).png
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 30
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165db0a6734afb830800000000000000
+      internalID: 4089167544585016673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood (3).png
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 62
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece5a6c76d27819f0800000000000000
+      internalID: -497521493288526130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood (4).png
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3a158b666e7230800000000000000
+      internalID: 3638458160942563030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
