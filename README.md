@@ -1,7 +1,8 @@
 # PirateShipBattle2D
+Project realized during between 21/01/2022 and 24/01/2022.
 
 ## ❔About
-In a control of a pirate ship, do you need to protect yourself from the other pirate ships that are hunting you! Score points the max that you can in this 2D top down shooter by destroying the ships before the clock time ends or before they destroy you. Project realized during between 21/01/2022 and 24/01/2022.
+In a control of a pirate ship, do you need to protect yourself from the other pirate ships that are hunting you! Score points the max that you can in this 2D top down shooter by destroying the ships before the clock time ends or before they destroy you.
 
 Unity Version: 2020.3.26f1
 
